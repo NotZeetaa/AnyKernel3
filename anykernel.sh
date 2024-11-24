@@ -11,7 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=munch
-supported.versions=11 - 14
+supported.versions=11 - 15
 supported.patchlevels=
 '; } # end properties
 
